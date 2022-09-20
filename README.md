@@ -2,14 +2,14 @@
 
 # Hello World 👋🏽
 
-## Développeur fullstack React & Javascript 👨🏽‍💻
+## Développeur fullstack Javascript 👨🏽‍💻
 
 ### Quelques mots à mon sujet:
 
-Je suis développeur en reconversion professionnelle, j'ai commencé en autodidacte avec **OpenClassRoom**, puis j'ai suivis une formation avec [**O'clock**](https://oclock.io/formations/developpeur-web-fullstack-javascript "oclock.io") 💪🏽 (Formation Web avec une spécialisation React) pendant 6 mois, en terminant par [**O'crypto**](http://www.youtube.com/watch?v=bE8Efk9obOw&t=52s "presentation Youtube.com") un réel projet professionel d'un mois en équipe de 5 développeurs (2 front-end, 3 back-end).
+Passionné depuis toujours par l'informatique et les nouvelles technologies, j'ai naturellement décidé d'orienté ma carrière en ce sens en opérant une reconversion professionnelle. J'ai commencé en autodidacte avec **OpenClassRoom**, puis j'ai suivis une formation avec [**O'clock**](https://oclock.io/formations/developpeur-web-fullstack-javascript "oclock.io") 💪🏽 (Formation Web avec une spécialisation React) pendant 6 mois, en terminant par [**O'crypto**](http://www.youtube.com/watch?v=bE8Efk9obOw&t=52s "presentation Youtube.com") un réel projet professionel d'un mois en équipe de 5 développeurs (2 front-end, 3 back-end).
 
-Depuis je ne fais que pratiquer, en réalisant des projets comme _[mon site portfolio](www.reactdevgilleslaurant.com "www.reactdevgilleslaurant.com")_, réalisé avec _React_, _Redux_, _Sass_ et _Green Sock_.  
-Ou encore mon application _**SHAPEARTS**_ qui permet de créer un dessin communautaire (un peu à la manière Z EVENT), à base de forme géométriques prédéfinies. Elle est actuellement en cours de développement...
+Depuis j'ai réalisé plusieurs projets comme _[ShapeArts.fr](https://shapearts.fr "https://shapearts.fr")_, une application web réalisée avec _Node.js_ pour l'API, _React_, _Redux@toolkits_, _Socket.io_, _Sass_ et _MySQL_ pour la base de données.  
+Ou encore mon portfolio _**GillesLaurant.fr**_ qui me présente ainsi que mes projets et qui est réalisé en pure javascript.
 
 ### Technologies pratiquées:
 
@@ -33,4 +33,4 @@ Je suis actuellement en recherche d'un premier emploi pour un poste de développ
 
 - Mon site : [www.GillesLaurant.fr](https://gilleslaurant.fr)
 - Profil linkedin : [Gilles-laurant-devJS](http://www.linkedin.com/in/gilles-laurant-devjs)
-- Mon CV : [📄](https://www.linkedin.com/in/gilles-laurant-devjs/overlay/1635486940527/single-media-viewer?type=DOCUMENT&profileId=ACoAAC1mrsgBN2bQl7CQ0y7tGDEOwOmRoPAW4j0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJQ4gOEBNRequLV0hFJL3dA%3D%3D)
+- Mon CV : [📄](https://drive.google.com/file/d/1xwkdn4wQ8GJPnquY96XLsEw_sLXtGxuA/view?usp=sharing)
