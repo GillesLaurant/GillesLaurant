@@ -33,7 +33,7 @@ Ou encore mon portfolio _**GillesLaurant.fr**_ qui me présente ainsi que mes pr
 
 ### Pour me contacter 💻
 
-Je suis actuellement en recherche d'un premier emploi pour un poste de développeur qui me permettra de progresser et d'en apprendre encore plus sur la programmation. Mes coordonnées sont dessous pour toute opportunité qui pourrait me correspondre.
+Je suis actuellement en recherche d'un nouveau challenge pour un poste de développeur qui me permettra de progresser et d'en apprendre encore plus sur la programmation.
 
 - Mon site : [www.GillesLaurant.fr](https://gilleslaurant.fr)
 - Profil linkedin : [Gilles-laurant-devJS](http://www.linkedin.com/in/gilles-laurant-devjs)
