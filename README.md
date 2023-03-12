@@ -14,7 +14,9 @@ Ou encore mon portfolio _**GillesLaurant.fr**_ qui me présente ainsi que mes pr
 ### Technologies pratiquées:
 
 - Javascript
+- Typescript
 - React
+- Next
 - Node
 - Redux
 - Redux-toolkits
@@ -23,8 +25,10 @@ Ou encore mon portfolio _**GillesLaurant.fr**_ qui me présente ainsi que mes pr
 - PostgreSQL
 - Sass
 - Green Sock
+- Framer Motion
 - Socket.io
 - Sequelize
+- Prisma
 - Et tant d'autres qu'il me reste à découvrir...
 
 ### Pour me contacter 💻
